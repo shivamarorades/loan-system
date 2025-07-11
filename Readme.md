@@ -60,3 +60,10 @@ Make a folder name loan_system in htdocs folder
 Manually Extract to C:/xampp/htdocs/loan_system
 
 
+Admin username and password
+username: admin123
+password: Adminpeer134
+
+Import loan_db in phpmyadmin before importing please make database name : loan_db
+
+
