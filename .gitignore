@@ -1,0 +1,24 @@
+# CodeIgniter 3 project ignore list
+
+# Logs and cache
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+
+# Uploads
+uploads/*
+!uploads/index.html
+
+# Environment
+.env
+.env.*
+
+# Dependencies
+/vendor/
+
+# IDE/editor files
+.DS_Store
+Thumbs.db
+.idea/
+nbproject/
