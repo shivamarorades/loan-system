@@ -56,6 +56,7 @@ cd /c/xampp/htdocs
 git clone https://github.com/shivamarorades/loan-system.git
 
 or
+Make a folder name loan_system in htdocs folder
 Manually Extract to C:/xampp/htdocs/loan_system
 
 
