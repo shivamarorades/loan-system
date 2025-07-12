@@ -7,18 +7,17 @@ A robust web-based Loan Management System built with **CodeIgniter 3**, allowing
 ## 🚀 Features
 
 ### 👤 User Panel
-- ✅ User registration with OTP verification
-- ✅ Secure login/logout
-- ✅ Apply for loans (amount, reason, tenure)
-- ✅ Track loan status (Pending / Approved / Rejected / Closed)
+- ✅ User registration with OTP verification (Not by any api mailer)
+- ✅ Secure login/logout 
+- ✅ Apply for loans (amount, purpose, tenure)
+- ✅ Track loan status (Pending / Approved / Rejected / No Loans)
 - ✅ Repay approved loans
 
 ### 🛡 Admin Panel
 - ✅ Admin login/logout
 - ✅ View all user loan applications
-- ✅ Approve, Reject, or Close loans
+- ✅ Approve, Reject
 - ✅ Filter users by loan status
-- ✅ Search users by name, phone, or email
 
 ---
 
@@ -65,5 +64,7 @@ username: admin123
 password: Adminpeer134
 
 Import loan_db in phpmyadmin before importing please make database name : loan_db
+
+If you face any problem please replace httpd.conf
 
 
