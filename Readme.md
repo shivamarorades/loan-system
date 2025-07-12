@@ -1,7 +1,7 @@
 # 💳 Loan Management System (CodeIgniter 3)
 
 A robust web-based Loan Management System built with **CodeIgniter 3**, allowing users to apply for loans, view loan statuses, and repay loans. Includes a secured admin panel for managing user applications.
-
+http://localhost/loan_system
 ---
 
 ## 🚀 Features
