@@ -36,10 +36,10 @@ A robust web-based Loan Management System built with **CodeIgniter 3**, allowing
 
 ### ⚙️ Requirements
 
-- PHP 7.x or 8.x
-- MySQL or MariaDB
-- Apache/Nginx
-- [XAMPP](https://www.apachefriends.org/) or any LAMP stack
+- PHP 8.x
+- MySQL 
+- Apache
+- [XAMPP](https://www.apachefriends.org/)
 - Git (optional for version control)
 
 ---
