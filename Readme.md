@@ -17,7 +17,7 @@ A robust web-based Loan Management System built with **CodeIgniter 3**, allowing
 - ✅ Admin login/logout
 - ✅ View all user loan applications
 - ✅ Approve, Reject
-- ✅ Filter users by loan status
+- ✅ Filter users applications by loan status
 
 ---
 
